@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head-1{
+    background-color: #FD6B00;
+  width: 100vw;
+  height: 10rem;
+}
+.head-2{
+    background-color: #F6BC92;
+  width: 100vw;
+  height: 30rem;
+  position: relative;
+  top:-5rem;
+  
+}
+
+.govt{
+    position: relative;
+    left: 45px;
+    top: 16px;
+    height: 47px;
+    width: 28px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.navbar{
+    z-index: 1;
+    border-radius: 10px;
+    width: 60%;
+   margin: auto;
+}
+
+.nav-item{
+    margin: 0px 30px;
+    padding: 0px 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
