@@ -1,2 +1,2 @@
 WEBSITE PREVIEW
-https://therohitboora.github.io/NUTANGRAM/index.HTML
+https://therohitboora.github.io/NUTANGRAM/index.html
