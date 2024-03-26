@@ -46,11 +46,9 @@
 }
 
 .Navi p{
-    font-size: 1.3em;
+    font-size: 0.9em;
     font-weight: bold;
-    align-items: center;
-    position: relative;
-    top: 5px;
+  margin:auto;
 }
 
 
@@ -61,4 +59,29 @@
     .Navi p{
         display: none;
     }
+   
+}
+@media screen and (max-width:700px){
+   
+.logo{
+    height: 35px;
+    width: 35px;
+   }
+   .navbar-toggler{
+    padding: 0.5em;
+    font-size: 10px;
+   }
+.Navi p{
+    font-size: 0.8em;
+}
+
+.govt{
+    height: 30px;
+    width: 18px;
+   left:  26px;
+    top: 18px;
+}
+.navbar{
+    top: 3vh; 
+}
 }
