@@ -11,7 +11,7 @@
 .head-2{
     background-color: #F6BC92;
   width: 100%;
-  height: 30rem;
+  height: 90vh;
   position: relative;
   top:-5rem;
   
@@ -51,6 +51,10 @@
   margin:auto;
 }
 
+.slideimg{
+   height: 90vh;
+}
+
 
 
 
@@ -83,5 +87,16 @@
 }
 .navbar{
     top: 3vh; 
+}
+
+}
+@media screen and (max-width:900px){
+.slideimg{
+    height: 60vh;
+ }
+ .head-2{
+  
+  height: 60vh;
+   
 }
 }
